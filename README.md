@@ -46,10 +46,9 @@ Sou um **Desenvolvedor Full Stack** experiente, focado na criação de aplicaç�
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisilva10&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisilva10&layout=compact&theme=highcontrast&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=guisilva10&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=guisilva10&layout=compact&theme=highcontrast&hide_border=false"/>
 </p>
-
 ---
 
 <p align="center">
