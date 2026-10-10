@@ -33,7 +33,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-willembio.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://willembio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermesilvawww-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesilvawww/)
-[![Next Devs Academy](https://img.shields.io/badge/Next_Devs_Academy-nextdevsacademy.com.br-39d353?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://www.nextdevsacademy.com.br/)
+[![2V Educação](https://img.shields.io/badge/2V_Educação-2veducacao.com.br-39d353?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://2veducacao.com.br/)
 
 <br>
 
