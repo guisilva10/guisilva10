@@ -1,17 +1,17 @@
 {
   "username": "guisilva10",
-  "generated_at": "2026-10-24T11:01:05Z",
+  "generated_at": "2026-10-25T11:29:45Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 5456,
-  "active_days": 304,
-  "avg_per_active_day": 17.9,
+  "total_contributions": 5423,
+  "active_days": 299,
+  "avg_per_active_day": 18.1,
   "current_streak": {
-    "length": 15,
+    "length": 16,
     "start": "2026-10-09",
-    "end": "2026-10-23"
+    "end": "2026-10-24"
   },
   "longest_streak": {
     "length": 27,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 93
+      "total": 59
     },
     {
       "month": "2025-11",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 362
+      "total": 363
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 17,
-      "level": 1
-    },
-    {
-      "date": "2025-10-21",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-10-22",
-      "count": 6,
-      "level": 1
-    },
-    {
-      "date": "2025-10-23",
-      "count": 4,
-      "level": 1
-    },
-    {
-      "date": "2025-10-24",
-      "count": 3,
-      "level": 1
-    },
-    {
-      "date": "2025-10-25",
-      "count": 2,
-      "level": 1
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-10-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-25",
       "count": 0,
       "level": 0
     }
